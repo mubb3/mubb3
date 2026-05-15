@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Im a student at Kristiania currently finishing my bachelor's CS degree in frontend and mobile development. Though I do dabble in whatever interests me.
+
+Looking for [murt.in](https://murt.in), the renowned comic site depicting life in SG23? Congrats, you already found it.
