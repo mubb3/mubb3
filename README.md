@@ -18,7 +18,7 @@ Im a student at Kristiania currently finishing my bachelor's CS degree in fronte
 
 
 
-## Projects from Kristiana
+## Projects from Kristiania
 ### Spring 2026
 - [Cross Platform resit exam](https://github.com/mubb3/TDS200-Exam-2026)
 - Bachelor project
