@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Im a student at Kristiania currently finishing my bachelor's CS degree in frontend and mobile development. Though I do dabble in whatever interests me.
+Frontend & mobile developer, fresh CS graduate from Kristiania. Though I do dabble in whatever interests me.
 
 
 
 ## Projects from Kristiania
 ### Spring 2026
 - [Cross Platform](https://github.com/mubb3/TDS200-Exam-2026)
-- Bachelor project
+- Bachelor project - frontend for an AI chat application (React, TypeScript, Azure Entra ID). Private repo, happy to walk through it.
 - Research methods
   
 ### Fall 2025
